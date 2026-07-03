@@ -20,10 +20,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thedogecraft/thedogecraft/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:thedogecraft?theme=moebooru&padding=5&offset=3&scale=1.2&align=bottom&pixelated=1&darkmode=0"  />
 </div>
