@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Creator Of ZeroNetz and RM Developers</p>
+<p align="center">Founder Of Zerosec & Zeronetz</p>
 
 ###
 
